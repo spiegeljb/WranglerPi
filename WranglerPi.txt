@@ -1,7 +1,22 @@
 WranglerPi
 
+navtv
+https://www.amazon.com/gp/product/B00PVZB5PS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+navtv switcher - optional
+https://navtv.com/products/NTV-KIT781/avswv2.html
+
 power supply
 https://mausberry-circuits.myshopify.com/collections/frontpage/products/3a-car-supply-switch-1
 
 pi
 https://www.amazon.com/CanaKit-Raspberry-Power-Supply-Listed/dp/B07BC6WH7V/ref=sr_1_2_sspa?keywords=raspberry+pi&qid=1558465011&s=sporting-goods&sr=1-2-spons&psc=1
+
+hdmi to rea - optional
+https://www.amazon.com/gp/product/B01KXI8LZE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+hdmi cable - optional
+https://www.amazon.com/gp/product/B01HQ2H3HC/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+remote
+https://www.amazon.com/gp/product/B06XHF7DNQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
